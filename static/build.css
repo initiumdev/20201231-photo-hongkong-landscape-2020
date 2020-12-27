@@ -907,7 +907,7 @@ button::-moz-focus-inner {
 
 @media (max-width:1024px) and (orientation:portrait) {
     .cover__wrapper {
-        bottom: 45%;
+        bottom: 47%;
         left: 0;
         max-width: 90%;
         padding: 1.5em
